@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Artists
+[
+	<!ELEMENT Artists (Artist+)>
+	<!ELEMENT Artist (name, desc, awards+, popularAlbum+)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT desc (#PCDATA)>
+	<!ELEMENT awards (#PCDATA)>
+	<!ELEMENT popularAlbum (#PCDATA)>	
+]>
+
+<Artists>
+	<Artist>
+		<name>Kendrick Lamar</name>
+		<desc>American rapper, songwriter, and producer from Compton, California</desc>
+		<awards>27 Grammys Awards</awards>
+		<awards>2 Emmy Awards</awards>
+		<awards>5 American Music Awards</awards>
+		<popularAlbum>good kid, m.A.A.d city</popularAlbum>
+		<popularAlbum>DAMN.</popularAlbum>
+		<popularAlbum>To Pimp A Butterfly</popularAlbum>
+	</Artist>
+	
+	<Artist>
+		<name>Michael Jackson</name>
+		<desc>American singer, songwriter, dancer, and philanthropist. One of the most culturally significant people in the 20th Century</desc>
+		<awards>13 Number 1 Singles</awards>
+		<awards>39 Guinness World Records</awards>
+		<awards>13 Grammy Awards</awards>
+		<popularAlbum>Bad</popularAlbum>
+		<popularAlbum>Thriller</popularAlbum>
+	</Artist>
+	
+	<Artist>
+		<name>Bruno Mars</name>
+		<desc>American singer-songwriter, producer, and dancer from Honolulu, Hawaii</desc>
+		<awards>16 Grammry Awards</awards>
+		<awards>10 Guinness World Records</awards>
+		<popularAlbum>24K Magic</popularAlbum>
+		<popularAlbum>An Evening with Silk Sonic</popularAlbum>
+	</Artist>
+	
+	<Artist>
+		<name>Bruno Mars</name>
+		<desc>American singer-songwriter, producer, and dancer from Honolulu, Hawaii</desc>
+		<awards>16 Grammry Awards</awards>
+		<awards>10 Guinness World Records</awards>
+		<popularAlbum>24K Magic</popularAlbum>
+		<popularAlbum>An Evening with Silk Sonic</popularAlbum>
+	</Artist>
+	
+</Artists>
