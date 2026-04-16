@@ -493,7 +493,7 @@ li{
   box-shadow: 0 0 25px #3b82f6;
 }
 
-/* image zoom + glow */
+/* image zoom and glow */
 .artist-img {
   transition: all 0.3s ease;
 }
