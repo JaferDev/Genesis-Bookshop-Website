@@ -1,3 +1,8 @@
+/*
+  CREDIT: Lines 4-455 & 557-559 wrriten by https://github.com/Michael-ade47
+  CREDIT: Lines 457-490 & 510-556 written by https://www.github.com/ivanmodest12
+  CREDIT: Lines 491-509 written by https://www.github.com/JaferDev
+*/
 html, body {
   margin: 0;
   padding: 0;
@@ -486,8 +491,23 @@ li{
 
 .artist-bio {
   color: #ffffff;
-  font-size: 14px;
+  font-size: 15px;
+  margin-bottom: 15px;
 }
+
+.artist-subinfotitle {
+  text-align: center;
+  color: #b5c7e6;
+  font-size: 15px;
+}
+
+.artist-subinfo {
+  text-align: center;
+  color: #ffffff;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
 .artist-box {
   transition: all 0.3s ease;
 }
