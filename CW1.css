@@ -23,9 +23,9 @@ h1, h2, h3, p {
   padding: 10px 20px;
 }
 
-/*logos within the .header container are 290px*/
+/*logos within the .header container are resized to be much smaller*/
 .logo-img {
-  width: 290px;
+  width: 150px;
 }
 /*class called p2 to style main paragraph*/
 .p2 {
@@ -49,16 +49,17 @@ text-shadow:
 /*container for the logos*/
 .logo-container {
   width: 90%;
-  margin: 20px auto;
-  padding: 30px;
+  margin: 10px auto;
+  padding: 15px 40px;
   background: #000000;
   border-radius: 45px;
   border: 1px solid rgba(5, 99, 249, 0.786);
 }
-/*logos center aligned*/
+/*logos center aligned and spread out*/
 .logo-row {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   width: 100%;
 }
 /*margin for the left logo*/
@@ -466,16 +467,16 @@ li{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 20px; /* Reduced gap for compact feel */
+  gap: 20px; 
 }
 
 .artist-box {
   background: #000000;
   border: 1px solid rgba(5, 99, 249, 0.786);
   border-radius: 20px;
-  padding: 0; /* Changed to 0 so cover art touches edges */
+  padding: 0; 
   text-align: center;
-  width: 210px;   /* Fixed width for smaller cards */
+  width: 210px;   
   min-width: 210px;
   overflow: hidden;
   padding-bottom: 15px;
@@ -491,11 +492,11 @@ li{
 }
 
 .artist-img {
-  width: 70px; /* Reduced circular size */
+  width: 70px; 
   height: 70px;
   border-radius: 50%;
   object-fit: cover;
-  margin-top: -35px; /* Creates the overlap effect */
+  margin-top: -35px; 
   border: 2px solid #000;
   display: inline-block;
   transition: all 0.3s ease;
