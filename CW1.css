@@ -23,9 +23,9 @@ h1, h2, h3, p {
   padding: 10px 20px;
 }
 
-/*logos within the .header container are resized to be much smaller*/
+/*logos within the .header container are resized to be small icons*/
 .logo-img {
-  width: 150px;
+  width: 100px;
 }
 /*class called p2 to style main paragraph*/
 .p2 {
@@ -50,7 +50,7 @@ text-shadow:
 .logo-container {
   width: 90%;
   margin: 10px auto;
-  padding: 15px 40px;
+  padding: 10px 40px;
   background: #000000;
   border-radius: 45px;
   border: 1px solid rgba(5, 99, 249, 0.786);
