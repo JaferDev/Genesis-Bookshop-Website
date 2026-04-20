@@ -7,18 +7,21 @@
             <artistName>REMA ft. Selena Gomez</artistName>
             <genre>Afrobeats</genre>
             <image>Rema.jpg</image>
+            <coverArt>calm_down_remix.jpg</coverArt>
         </Song>
         <Song>
             <title>Peru</title>
             <artistName>Fireboy DML ft. Ed Sheeran</artistName>
             <genre>Afrobeats</genre>
             <image>FireboyDML.jpeg</image>
+            <coverArt>peru_remix.jpg</coverArt>
         </Song>
         <Song>
             <title>Soweto</title>
             <artistName>Victony ft. Tempoe</artistName>
             <genre>Afrobeats</genre>
             <image>Victony.jpg</image>
+            <coverArt>soweto_victony.jpg</coverArt>
         </Song>
     </GenreCategory>
 
@@ -28,30 +31,28 @@
             <artistName>Kendrick Lamar</artistName>
             <genre>Rap</genre>
             <image>KendrickLamar.jpg</image>
+            <coverArt>not_like_us_kendrick.jpg</coverArt>
         </Song>
         <Song>
             <title>Sicko mode</title>
             <artistName>Travis Scott</artistName>
             <genre>Rap</genre>
             <image>TravisScott.webp</image>
+            <coverArt>astroworld_cover.jpg</coverArt>
         </Song>
         <Song>
             <title>First Person Shooter</title>
             <artistName>Drake ft. J. Cole</artistName>
             <genre>Rap</genre>
             <image>drake.jpg</image>
+            <coverArt>for_all_the_dogs.jpg</coverArt>
         </Song>
         <Song>
             <title>Lucid dreams</title>
             <artistName>Juice World</artistName>
             <genre>Rap</genre>
-            <image>travis.jpg</image>
-        </Song>
-        <Song>
-            <title>All girls are the same</title>
-            <artistName>Juice World</artistName>
-            <genre>Rap</genre>
-            <image>travis.jpg</image>
+            <image>JuiceWrld.jpg</image>
+            <coverArt>goodbye_and_good_riddance.jpg</coverArt>
         </Song>
     </GenreCategory>
 
@@ -61,69 +62,38 @@
             <artistName>Michael Jackson</artistName>
             <genre>Pop</genre>
             <image>MichaelJackson.jpg</image>
-        </Song>
-        <Song>
-            <title>Thriller</title>
-            <artistName>Michael Jackson</artistName>
-            <genre>Pop</genre>
-            <image>MichaelJackson.jpg</image>
+            <coverArt>thriller_album.jpg</coverArt>
         </Song>
         <Song>
             <title>Levitating</title>
             <artistName>Dua Lipa</artistName>
             <genre>Pop</genre>
             <image>DuaLipa.jpeg</image>
-        </Song>
-        <Song>
-            <title>Beat it</title>
-            <artistName>Michael Jackson</artistName>
-            <genre>Pop</genre>
-            <image>MichaelJackson.jpg</image>
+            <coverArt>future_nostalgia.jpg</coverArt>
         </Song>
         <Song>
             <title>Blinding Lights</title>
             <artistName>The Weeknd</artistName>
             <genre>Pop</genre>
             <image>TheWeeknd.jpg</image>
+            <coverArt>after_hours.jpg</coverArt>
         </Song>
     </GenreCategory>
 
-    <GenreCategory name="R&amp;B">
+    <GenreCategory name="R&B">
         <Song>
-            <title>24K</title>
+            <title>24K Magic</title>
             <artistName>Bruno Mars</artistName>
-            <genre>R&amp;B</genre>
+            <genre>R&B</genre>
             <image>BrunoMars.jpg</image>
+            <coverArt>24k_magic_album.jpg</coverArt>
         </Song>
-        <Song>
-            <title>Skywalker</title>
-            <artistName>Miguel ft Travis Scott</artistName>
-            <genre>R&amp;B</genre>
-            <image>TravisScott.webp</image>
-        </Song>
-        <Song>
-            <title>Free-Mind</title>
-            <artistName>Tems</artistName>
-            <genre>R&amp;B</genre>
-            <image>FireboyDML.jpeg</image> </Song>
-        <Song>
-            <title>Location</title>
-            <artistName>Khalid</artistName>
-            <genre>R&amp;B</genre>
-            <image>BrunoMars.jpg</image> </Song>
-    </GenreCategory>
-
-    <GenreCategory name="Amapiano">
-        <Song>
-            <title>Jerusalema</title>
-            <artistName>Master KG ft. Nomcebo Zikode</artistName>
-            <genre>Amapiano</genre>
-            <image>Tyla.jpeg</image> </Song>
         <Song>
             <title>Water</title>
             <artistName>Tyla</artistName>
             <genre>Amapiano</genre>
             <image>Tyla.jpeg</image>
+            <coverArt>tyla_water.jpg</coverArt>
         </Song>
     </GenreCategory>
 </MusicLibrary>
