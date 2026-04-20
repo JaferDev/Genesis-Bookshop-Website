@@ -6,22 +6,22 @@
             <title>Calm down</title>
             <artistName>REMA ft. Selena Gomez</artistName>
             <genre>Afrobeats</genre>
-            <image>Rema.jpg</image>
-            <coverArt>calm_down_remix.jpg</coverArt>
+            <image>album%20cover/rema.jpg</image>
+            <coverArt>album%20cover/rema.jpg</coverArt>
         </Song>
         <Song>
             <title>Peru</title>
             <artistName>Fireboy DML ft. Ed Sheeran</artistName>
             <genre>Afrobeats</genre>
-            <image>FireboyDML.jpeg</image>
-            <coverArt>peru_remix.jpg</coverArt>
+            <image>album%20cover/peru.jpg</image>
+            <coverArt>album%20cover/peru.jpg</coverArt>
         </Song>
         <Song>
             <title>Soweto</title>
             <artistName>Victony ft. Tempoe</artistName>
             <genre>Afrobeats</genre>
-            <image>Victony.jpg</image>
-            <coverArt>soweto_victony.jpg</coverArt>
+            <image>album%20cover/sweto.jpg</image>
+            <coverArt>album%20cover/sweto.jpg</coverArt>
         </Song>
     </GenreCategory>
 
@@ -30,29 +30,29 @@
             <title>Not like us</title>
             <artistName>Kendrick Lamar</artistName>
             <genre>Rap</genre>
-            <image>KendrickLamar.jpg</image>
-            <coverArt>not_like_us_kendrick.jpg</coverArt>
+            <image>album%20cover/not%20like%20us.png</image>
+            <coverArt>album%20cover/not%20like%20us.png</coverArt>
         </Song>
         <Song>
             <title>Sicko mode</title>
             <artistName>Travis Scott</artistName>
             <genre>Rap</genre>
-            <image>TravisScott.webp</image>
-            <coverArt>astroworld_cover.jpg</coverArt>
+            <image>album%20cover/sicko%20mode.jpg</image>
+            <coverArt>album%20cover/sicko%20mode.jpg</coverArt>
         </Song>
         <Song>
             <title>First Person Shooter</title>
             <artistName>Drake ft. J. Cole</artistName>
             <genre>Rap</genre>
-            <image>drake.jpg</image>
-            <coverArt>for_all_the_dogs.jpg</coverArt>
+            <image>album%20cover/first%20person%20shooter.jpg</image>
+            <coverArt>album%20cover/first%20person%20shooter.jpg</coverArt>
         </Song>
         <Song>
             <title>Lucid dreams</title>
             <artistName>Juice World</artistName>
             <genre>Rap</genre>
-            <image>JuiceWrld.jpg</image>
-            <coverArt>goodbye_and_good_riddance.jpg</coverArt>
+            <image>album%20cover/lucid%20dreams.jpg</image>
+            <coverArt>album%20cover/lucid%20dreams.jpg</coverArt>
         </Song>
     </GenreCategory>
 
@@ -61,22 +61,22 @@
             <title>Billie Jean</title>
             <artistName>Michael Jackson</artistName>
             <genre>Pop</genre>
-            <image>MichaelJackson.jpg</image>
-            <coverArt>thriller_album.jpg</coverArt>
+            <image>album%20cover/billie%20jean.png</image>
+            <coverArt>album%20cover/billie%20jean.png</coverArt>
         </Song>
         <Song>
             <title>Levitating</title>
             <artistName>Dua Lipa</artistName>
             <genre>Pop</genre>
-            <image>DuaLipa.jpeg</image>
-            <coverArt>future_nostalgia.jpg</coverArt>
+            <image>album%20cover/levitating.jpg</image>
+            <coverArt>album%20cover/levitating.jpg</coverArt>
         </Song>
         <Song>
             <title>Blinding Lights</title>
             <artistName>The Weeknd</artistName>
             <genre>Pop</genre>
-            <image>TheWeeknd.jpg</image>
-            <coverArt>after_hours.jpg</coverArt>
+            <image>album%20cover/blinding%20lights%20img.png</image>
+            <coverArt>album%20cover/blinding%20lights%20img.png</coverArt>
         </Song>
     </GenreCategory>
 
@@ -85,15 +85,15 @@
             <title>24K Magic</title>
             <artistName>Bruno Mars</artistName>
             <genre>R&amp;B</genre>
-            <image>BrunoMars.jpg</image>
-            <coverArt>24k_magic_album.jpg</coverArt>
+            <image>album%20cover/24k%20magic.jpg</image>
+            <coverArt>album%20cover/24k%20magic.jpg</coverArt>
         </Song>
         <Song>
             <title>Water</title>
             <artistName>Tyla</artistName>
             <genre>Amapiano</genre>
-            <image>Tyla.jpeg</image>
-            <coverArt>tyla_water.jpg</coverArt>
+            <image>album%20cover/tyla%20water.jpg</image>
+            <coverArt>album%20cover/tyla%20water.jpg</coverArt>
         </Song>
     </GenreCategory>
 </MusicLibrary>
