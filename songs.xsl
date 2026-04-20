@@ -50,7 +50,7 @@
                     <xsl:for-each select="//Song">
                         <div class="artist-box">
                             <div class="cover-container">
-                                <img src="{coverArt}" class="cover-art-img" alt="Album Cover" />
+                                <img src="{coverArt}" class="cover-art-img" alt="Album Cover" width="300px" />
                             </div>
                             
                             <div class="artist-profile">
