@@ -6,13 +6,16 @@
     <head>
       <meta charset="UTF-8"></meta>
       <title>Coursework1 - Songs</title>
+
       <link rel="stylesheet" href="CW1.css"></link>
       <link href="https://fonts.googleapis.com/css2?family=Orbitron&amp;display=swap" rel="stylesheet"></link>
       <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;600&amp;display=swap" rel="stylesheet"></link>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"></link>
     </head>
 
     <body>
       <div class="background">
+
         <div class="header">  
           <div class="logo-container">
             <div class="logo-row">
@@ -40,15 +43,18 @@
         </div>
 
         <h1 class="artists-title">Music Library</h1>
-        <p class="artists-subtitle">Full Track List</p>
-        
+        <p class="artists-subtitle">Explore your favorite tracks by genre</p>
+
         <div class="artists-container">
           <xsl:for-each select="GenreCategory/Song">
             <div class="artist-box">
               <img src="{image}" class="artist-img" alt="Cover Art"></img>
+              
               <h2 class="artist-name"><xsl:value-of select="title" /></h2>
               <p class="artist-bio"><i>By <xsl:value-of select="artistName" /></i></p>
+              
               <hr style="border: 0.5px solid #444; margin: 15px 0;"></hr>
+              
               <p class="artist-subinfotitle"><b>Genre:</b></p>
               <p class="artist-subinfo"><xsl:value-of select="genre"/></p>
             </div>
