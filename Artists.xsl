@@ -39,7 +39,7 @@
                   <li><a class="pages" href="CW1.html#Genres">Genres</a></li>
                   <li><a class="pages" href="CW1.html#contact">Contact</a></li>
                   <li><a class="pages" href="CW1.html">About Us</a></li>
-                  <li><a class="pages" href="#">Songs</a></li>
+                  <li><a class="pages" href="songs.xml">Songs</a></li>
                 </ul>
               </nav>
             </div>

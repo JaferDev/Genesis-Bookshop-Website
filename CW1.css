@@ -2,7 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
 }
-/*Setting the background for the pagess*/
+
 body {
   background: radial-gradient(circle at center, #0f172a, #000000);
 }
@@ -11,22 +11,20 @@ body {
   padding-bottom: 20px;
 }
 
-/* h1 ,h2 , h3 ,p  have margin of 0*/
 h1, h2, h3, p {
   margin: 0;
 }
 
-/*header container*/
 .header {
   display: flex;
   align-items: center;
   padding: 10px 20px;
 }
-/*logos within the .header container are 290px*/
+
 .logo-img {
   width: 290px;
 }
-/*class called p2 to style main paragraph*/
+
 .p2 {
   color: #f1f5f9;
   text-align: center;
@@ -34,7 +32,7 @@ h1, h2, h3, p {
   font-family: 'Exo 2', sans-serif;
   margin-bottom: 20px;
 }
-/* styles for the first heading*/
+
 .heading1 {
   text-align: center;
   font-size: 32px;
@@ -45,37 +43,34 @@ text-shadow:
   0 0 26px #1d4ed8;  font-family: 'Orbitron', sans-serif;
   margin-bottom: 20px;
 }
-/*container for the logos*/
+
 .logo-container {
   width: 90%;
-  margin: 10px auto;
-  padding: 10px 40px;
+  margin: 20px auto;
+  padding: 30px;
   background: #000000;
   border-radius: 45px;
   border: 1px solid rgba(5, 99, 249, 0.786);
 }
-/*logos center aligned and spread out*/
+
 .logo-row {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   width: 100%;
 }
-/*margin for the left logo*/
+
 .logo-left {
   margin-right: auto;
 }
 
-/*margin for the middle logo*/
 .logo-center {
   margin: 0 auto;
 }
 
-/*margin for the left logo*/
 .logo-right {
   margin-left: auto;
 }
-/* styles for the team members list*/
+
 .ln1 {
   color: #ffffff;
   font-size: 22px;
@@ -83,7 +78,7 @@ text-shadow:
  padding: 20px; 
   list-style-position: inside;
 }
-/*applying styles to the second heading and using an imported font*/
+
 .heading2 {
   color: #60a5fa;
   letter-spacing: 2px;
@@ -94,7 +89,7 @@ text-shadow:
   font-family: 'Orbitron', sans-serif;
   margin-bottom: 15px;
 }
-/* main container for the team memebers list*/
+
 .teamMembers {
   width: 90%;
   margin: 5px auto 10px;
@@ -104,7 +99,6 @@ text-shadow:
   border: 1px solid rgba(5, 99, 249, 0.786);
 }
 
-/*setting styles for the slogan*/
 .slogan {
   letter-spacing: 2px;
   color: #e5e7eb;
@@ -116,7 +110,7 @@ text-shadow:
   text-align: center;
   font-size: 48px;
 }
-/* fonts for the contents of the table that are not the header*/
+
 .schedule {
   color: #60a5fa;
   letter-spacing: 2px;
@@ -128,13 +122,12 @@ text-shadow:
   margin-bottom: 15px;
   text-align: center;
 }
-/*container for the table */
+
 .timetable {
   width: 90%;
   margin: 20px auto;
 }
 
-/*table styles,color and length*/
 .opening-table {
   width: 100%;
   border-collapse: collapse;
@@ -144,7 +137,7 @@ text-shadow:
   font-size: 20px;
   padding: 22px;
 }
-/*styles for the table header*/
+
 .tableheader {
  color: #38bdf8;
     font-size: 20px;
@@ -156,8 +149,6 @@ text-shadow:
   padding: 18px;
   text-align: center;
 }
-
-/* table container border and background */
 .tableContainer{
     width:90%;
     margin:20px auto;
@@ -170,7 +161,6 @@ text-shadow:
     border-radius:45px;
     border:1px solid rgba(5, 99, 249, 0.786)
 }
-/*apply style to all td's under the .time class */
 .time td {
 color: #e0f2ff;
 letter-spacing: 2px;
@@ -180,18 +170,15 @@ letter-spacing: 2px;
   text-align: center;
   font-size: 18px;
 }
-/* home - page  styling */
+
  .home-page{
     margin:0;
     padding:0;
     box-sizing:border-box;
  }
- /*width for logos on the homepage*/
  .Genos3{
     width: 125px;
  }
-
- /*navbar allignment and space altered*/
  .navbar1{
     display:flex;
     align-items: center;
@@ -202,13 +189,11 @@ letter-spacing: 2px;
     flex:1;
     text-align:center;
  }
- /*Apply to all unodered lists in the nav*/
  nav ul{
     display:inline-block;
     list-style-type: none;
     gap: 40px;
  }
-  /*Apply to all unodered lists list items in the nav*/
   nav ul li{
     display:inline-block;
     margin-right: 20px;
@@ -216,7 +201,6 @@ letter-spacing: 2px;
 
     
  }
- /*styling the hyperlinks that cahnege the page*/
  .pages{
     text-decoration:overline;
     color: #38bdf8;
@@ -228,14 +212,12 @@ letter-spacing: 2px;
  
 
  }
- /*container holding instrument photos*/
  .container{
     max-width:1300px;
     margin: auto;
     padding-left: 25px;
     padding:25px;
  }
- /*slogan on the home page*/
  .slogan2{
   letter-spacing: 2px;
   color: #e5e7eb;
@@ -246,7 +228,6 @@ letter-spacing: 2px;
   margin-bottom: 15px;
   font-size: 28px;
  }
- /*paragraph on the hoem page*/
 .p1 {
       color: #05eeb8;
   font-size: 22px;
@@ -268,7 +249,6 @@ letter-spacing: 2px;
     flex-basis:50%;
     min-width: 195px;
 }
-/* style for images within  the column */
 .col-2 img {
   width: 90%;
   height: auto;
@@ -278,7 +258,7 @@ letter-spacing: 2px;
   box-shadow: 0 0 40px rgba(3, 95, 244, 0.982);
 
 }
-/*styling button*/
+
 .btn{
     border:1px solid rgba(3, 95, 244, 0.982);
       font-family: 'Orbitron', sans-serif;
@@ -293,16 +273,16 @@ letter-spacing: 2px;
     0 0 10px rgba(37, 99, 235, 0.5),
     0 0 20px rgba(34, 197, 94, 0.3);
 }
-/* apply box shadow upon hover on navigation links */
+
 nav a:hover {
     box-shadow: 0 0 20px #00f7ff,
               0 0 40px #00f7ff;
 }
-/* apply box shadow upon hover on button */
+
 .btn:hover {
   box-shadow: 0 0 45px #ff01e6;
 }
-/*navbar container with bordersand background */
+
 .navbarContainer{
 width:90%;
     margin:12px auto;
@@ -316,7 +296,19 @@ width:90%;
     border:1px solid rgba(16, 2, 163, 0.786);
 }
 
-
+.contentContainer{
+  
+width:90%;
+    margin:12px auto;
+    padding:9px;
+    background: linear-gradient(
+  to bottom,
+  rgba(15, 23, 42, 0.95),
+  rgba(2, 6, 23, 0.95)
+);
+    border-radius:45px;
+    border:1px solid rgba(7, 2, 62, 0.786)
+}
 
 .container2{
     max-width:1100px;
@@ -324,7 +316,6 @@ width:90%;
     padding-left: 10px;
     padding:10px;
  }
- /*style for the music genres heading*/
  .Genre {
      font-family: 'Orbitron', sans-serif;
      text-align:center;
@@ -333,7 +324,7 @@ text-shadow: 0 0 10px #a855f7, 0 0 20px #9333ea;
      font-size:48px;
  }
      
-  /*container for the music genres*/
+  
     .genre {
   width: 90%;
   margin: 20px auto;
@@ -342,7 +333,7 @@ text-shadow: 0 0 10px #a855f7, 0 0 20px #9333ea;
   border-radius: 45px;
   border: 1px solid rgba(5, 99, 249, 0.786);
 }
-/*styling the music genere list using imported list styles*/
+
 .genre li::before{
   content: "\f001";
   font-family: "Font Awesome 6 Free";
@@ -350,7 +341,7 @@ text-shadow: 0 0 10px #a855f7, 0 0 20px #9333ea;
   margin-right: 10px;
   list-style-type: none;
 }
-/*styling the  ordered and unordered lists*/
+
 .afro {
   color: #00f7ff;
   text-shadow: 0 0 8px #00f7ff;
@@ -401,7 +392,6 @@ li{
 .genre ul li {
   font-size: 20px;
 }
-/*container for contact details*/
 .contact{
     width:90%;
     padding:25px;
@@ -410,13 +400,14 @@ li{
     border-radius: 45px;
     border: 1px solid rgba(16, 2, 163, 0.786)
 }
-/*font stylyings for contact us details*/
 .contactUs{
     color:#6c15e5;
     font-family: "Font Awesome 6 Free";
     text-shadow:0 0 8px #1d4ed8;
     letter-spacing: 2px;
     font-size: 22px;
+
+
 
 }
 .ContactParagraph{
@@ -449,7 +440,7 @@ li{
 .genre ol > li {
   margin-bottom: 25px;
 }
-/*apply the styling below to the  genre titles*/
+
 .afro,
 .Rap,
 .pop,
@@ -459,58 +450,57 @@ li{
   font-weight: bold;
   letter-spacing: 1px;
 }
-
 .artists-container {
   width: 90%;
   margin: 40px auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 20px; 
+  gap: 25px;
 }
 
 .artist-box {
   background: #000000;
   border: 1px solid rgba(5, 99, 249, 0.786);
-  border-radius: 20px;
-  padding: 0; 
+  border-radius: 25px;
+  padding: 20px;
   text-align: center;
-  width: 210px;   
-  min-width: 210px;
-  overflow: hidden;
-  padding-bottom: 15px;
-  transition: all 0.3s ease;
-}
 
-/* Sizing for the top cover art */
-.cover-art-img {
-  width: 100%;
-  height: 125px;
-  object-fit: cover;
-  display: block;
+  width: 28%;   /* 3 in a single row*/
+  min-width: 250px;
 }
 
 .artist-img {
-  width: 70px; 
-  height: 70px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   object-fit: cover;
-  margin-top: -35px; 
-  border: 2px solid #000;
-  display: inline-block;
-  transition: all 0.3s ease;
+  margin-bottom: 15px;
 }
 
 .artist-name {
   color: #60a5fa;
   font-family: 'Orbitron', sans-serif;
-  margin: 10px 5px;
-  font-size: 1.1rem;
+  margin-bottom: 10px;
 }
 
 .artist-bio {
   color: #ffffff;
-  font-size: 13px;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+.artist-subinfotitle {
+  text-align: center;
+  color: #b5c7e6;
+  font-size: 15px;
+}
+
+.artist-subinfo {
+  text-align: center;
+  color: #ffffff;
+  font-size: 14px;
+  margin-bottom: 10px;
 }
 
 .artist-box {
@@ -561,12 +551,12 @@ li{
   margin-bottom: 30px;
 } 
 
-/*all team members photos should be width 220px*/
-.team{
+.ivan{
   width: 220px;
 }
-
-/*team members individual container*/
+.michael{
+  width: 220px;
+}
 .photo_box{
   width: 330px;
   margin: 5px;
@@ -577,4 +567,10 @@ li{
   rgba(2, 6, 23, 0.95)
 );  border-radius: 45px;
   border: 5px solid rgba(7, 1, 70, 0.786)
+}
+.mario{
+  width: 220px;
+}
+.jafer{
+  width: 220px;
 }
